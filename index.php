@@ -30,9 +30,9 @@
 
                 <h3 id="title3">Abaixo conheça nossas redes sociais e baixe um modelo de curriculo</h3>
 
-                <a href=""><div class="titleLadoB"><img class="img" src="logozap.png" alt=""> <p class="p">Nosso WhatsApp</p> </div></a>
-                <a href=""><div class="titleLadoB"><img class="img" src="instalogo.png" alt=""><p class="p">Nosso Instagram</p> </div></a>
-                <a href=""><div class="titleLadoB"><img  class="img" src="telegramlogo.png" alt=""> <p class="p">Nosso Telegram</p></div></a>
+                <a href="https://web.whatsapp.com/"><div class="titleLadoB"><img class="img" src="logozap.png" alt=""> <p class="p">Nosso WhatsApp</p> </div></a>
+                <a href="https://www.instagram.com/"><div class="titleLadoB"><img class="img" src="instalogo.png" alt=""><p class="p">Nosso Instagram</p> </div></a>
+                <a href="https://web.telegram.org/"><div class="titleLadoB"><img  class="img" src="telegramlogo.png" alt=""> <p class="p">Nosso Telegram</p></div></a>
         
                 <a href="modeloCurriculo.docx"><input type="submit" id="submit2" value="Download de Modelo de Curriculo"></a>
         </div>      
